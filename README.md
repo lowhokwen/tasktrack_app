@@ -39,7 +39,7 @@ TaskTrack is a beautiful mobile task management application built with Ionic Ang
 
 ## Demo Credentials
 - **Email**: `*****@.com`
-- **Password**: `demo123`
+- **Password**: `12345`
 
 ## Assignment Requirements Fulfilled
 
